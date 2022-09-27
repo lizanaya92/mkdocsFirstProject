@@ -1,0 +1,9 @@
+site_name: Liz's Website
+
+theme:
+  name: material
+
+nav: 
+  - Home: index.md
+  - Getting Started: 
+    - Install: installation.md
